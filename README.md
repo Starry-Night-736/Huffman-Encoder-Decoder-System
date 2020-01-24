@@ -18,6 +18,4 @@ The project has been tested using Xcode 11.3.1 on macOS Catalina 10.15.2
 
 ## Appendix
 ### Word-frequency list (%):
-Space 186
-A: 64  B: 13  C: 22  D: 32  E: 103  F: 21  G: 15  H: 47  I: 57  J: 1  K: 5  L: 32  M: 20
-N: 57  O: 63  P: 15  Q: 1  R: 48  S: 51  T: 80  U: 23  V: 8  W: 18  X: 1  Y: 16  Z: 1
+Space: 186  A: 64  B: 13  C: 22  D: 32  E: 103  F: 21  G: 15  H: 47  I: 57  J: 1  K: 5  L: 32  M: 20  N: 57  O: 63  P: 15  Q: 1  R: 48  S: 51  T: 80  U: 23  V: 8  W: 18  X: 1  Y: 16  Z: 1
